@@ -54,6 +54,15 @@
   box-sizing: border-box;
 }
 
+img {
+  max-width: 100%;  
+  height: auto;  
+}
+
+#profile-photo {
+  border-radius: 100%;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
