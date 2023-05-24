@@ -4453,6 +4453,10 @@ progress {
 }
 
 @media (max-width: 575.98px) {
+  
+  button {
+    display: inline-block;
+  }
   .offcanvas-sm {
     position: fixed;
     bottom: 0;
